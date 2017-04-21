@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amaralaa/rcmd/issues"
   },
-  "homepage": "https://github.com/amaralaa/rcmd#readme"
+  "homepage": "https://github.com/amaralaa/rcmd#readme",
+  "dependencies": {
+    "firebase": "^3.8.0"
+  }
 }
