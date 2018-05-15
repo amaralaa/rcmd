@@ -15,8 +15,6 @@ TODO:
 8- log every thing 
 9- any idea or suggestions
 
-sorry for any English mistake
-
 Tested on Linux OS only
 
 put your firebase connection object in config/fireBase.js
